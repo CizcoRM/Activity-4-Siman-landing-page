@@ -1,4 +1,3 @@
-Activity-4-Siman-landing-page
 Actividad #4 de la Semana 4 para el Bootcamp Full Stack Junior de Kodigo.
 
 Esta es la actividad final de este modulo, consiste en una landind page del siguiente caso hipotetico:
